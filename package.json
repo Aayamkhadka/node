@@ -1,0 +1,15 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "this is my app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aayam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "random": "^3.0.6"
+  }
+}
